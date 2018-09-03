@@ -48,7 +48,7 @@ class Graph {
       this.size = nodes;
     }
 
-    @property uint size() {
+    @property uint size() const {
       return this.nodes;
     }
     
