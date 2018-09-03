@@ -1,0 +1,10 @@
+{
+	"name": "rds-d",
+	"authors": [
+		"Mykyta Makovenko"
+	],
+	"description": "An implementation of Russian Doll Search algorithm written in Dlang.",
+	"copyright": "Copyright © 2018, Mykyta Makovenko",
+	"license": "Developed in Texas A&M University.",
+	"targetPath": "build/"
+}

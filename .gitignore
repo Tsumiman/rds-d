@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+rds-d.so
+rds-d.dylib
+rds-d.dll
+rds-d.a
+rds-d.lib
+rds-d-test-*
+*.exe
+*.o
+*.obj
+*.lst
+build/
